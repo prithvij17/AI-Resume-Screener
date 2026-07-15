@@ -1,0 +1,21 @@
+# Full project dependencies — install once at the project root:
+#   pip install -r requirements.txt
+#   python -m spacy download en_core_web_sm   (optional — see README)
+
+# Layer 1 (ML)
+scikit-learn>=1.3.0
+pandas>=2.0.0
+
+# Layer 2 (NLP)
+spacy>=3.7.0
+
+# Layer 3 (Agents)
+crewai>=1.15.2
+python-dotenv>=1.0.0
+
+# Layer 4 (Email) — smtplib/email are Python standard library, no install needed
+
+# Streamlit app
+streamlit>=1.59.0
+plotly>=5.20.0
+pdfplumber>=0.11.0

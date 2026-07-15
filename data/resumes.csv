@@ -1,0 +1,2404 @@
+candidate_name,category,fit_level,experience_years,education,skills,certifications,resume_text
+Aryan Maharaj,Data Science,high,2,B.Sc Statistics,"NumPy, Pandas, NLTK, TensorFlow, Deep Learning, XGBoost, Machine Learning, LightGBM, Tableau, R, Python, OpenCV",None,"Name: Aryan Maharaj
+Email: udantdewan@example.net | Phone: +918196001338 | Location: Gurugram
+
+EDUCATION
+B.Sc Statistics — Netaji Subhas University of Technology (2022)
+
+SKILLS
+NumPy, Pandas, NLTK, TensorFlow, Deep Learning, XGBoost, Machine Learning, LightGBM, Tableau, R, Python, OpenCV
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — BYJU'S (2 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Stock Price Forecasting: Implemented LSTM using TensorFlow/Keras to forecast stock prices, achieving RMSE of 4.2 on NSE data.
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+• COVID-19 Dashboard: Built an interactive data visualization dashboard using Tableau and Python to track COVID trends across Indian states.
+
+LANGUAGES
+Marathi, Hindi"
+Rushil Saini,Data Science,high,5,MCA,"TensorFlow, scikit-learn, Seaborn, Deep Learning, Machine Learning, Statistics, Keras, SQL, LightGBM, NLP, R, spaCy",None,"Name: Rushil Saini
+Email: saumyamall@example.org | Phone: +916542351161 | Location: Bengaluru
+
+EDUCATION
+MCA — VIT Vellore (2018)
+
+SKILLS
+TensorFlow, scikit-learn, Seaborn, Deep Learning, Machine Learning, Statistics, Keras, SQL, LightGBM, NLP, R, spaCy
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Amazon India (5 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+
+LANGUAGES
+Bengali, Telugu, Hindi"
+Hemangini Lalla,Data Science,high,4,M.Sc Data Science,"Deep Learning, Statistics, NumPy, Feature Engineering, Tableau, SQL, PyTorch, Power BI, XGBoost, Matplotlib, Data Visualization, spaCy","IBM Data Science Professional, TensorFlow Developer Certificate","Name: Hemangini Lalla
+Email: sharafjeet@example.com | Phone: +918495931034 | Location: Pune
+
+EDUCATION
+M.Sc Data Science — BITS Pilani (2018)
+
+SKILLS
+Deep Learning, Statistics, NumPy, Feature Engineering, Tableau, SQL, PyTorch, Power BI, XGBoost, Matplotlib, Data Visualization, spaCy
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — BYJU'S (4 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+• Stock Price Forecasting: Implemented LSTM using TensorFlow/Keras to forecast stock prices, achieving RMSE of 4.2 on NSE data.
+• COVID-19 Dashboard: Built an interactive data visualization dashboard using Tableau and Python to track COVID trends across Indian states.
+
+CERTIFICATIONS
+• IBM Data Science Professional
+• TensorFlow Developer Certificate
+
+LANGUAGES
+Gujarati, Tamil"
+Viraj Chaudhuri,Data Science,high,2,M.Sc Data Science,"spaCy, Seaborn, Statistics, NumPy, Machine Learning, scikit-learn, LightGBM, NLTK, Matplotlib, Power BI, XGBoost, Tableau",None,"Name: Viraj Chaudhuri
+Email: dmall@example.net | Phone: 02553419283 | Location: Noida
+
+EDUCATION
+M.Sc Data Science — SRM Institute of Science and Technology (2019)
+
+SKILLS
+spaCy, Seaborn, Statistics, NumPy, Machine Learning, scikit-learn, LightGBM, NLTK, Matplotlib, Power BI, XGBoost, Tableau
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — IBM India (2 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• COVID-19 Dashboard: Built an interactive data visualization dashboard using Tableau and Python to track COVID trends across Indian states.
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+
+LANGUAGES
+Telugu, Bengali"
+Turvi Raghavan,Data Science,high,3,MCA,"Machine Learning, NLTK, R, Deep Learning, TensorFlow, Tableau, PyTorch, Data Visualization, Pandas, LightGBM, OpenCV, NLP",None,"Name: Turvi Raghavan
+Email: theodore50@example.org | Phone: +915641395376 | Location: Chennai
+
+EDUCATION
+MCA — VIT Vellore (2020)
+
+SKILLS
+Machine Learning, NLTK, R, Deep Learning, TensorFlow, Tableau, PyTorch, Data Visualization, Pandas, LightGBM, OpenCV, NLP
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — PhonePe (3 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Stock Price Forecasting: Implemented LSTM using TensorFlow/Keras to forecast stock prices, achieving RMSE of 4.2 on NSE data.
+
+LANGUAGES
+Telugu, Marathi"
+Luke Lanka,Data Science,medium,1,B.Sc Statistics,"Python, OpenCV, NumPy, Computer Vision, NLTK, scikit-learn, Jupyter Notebook, TensorFlow, MVVM, Kubernetes",None,"Name: Luke Lanka
+Email: yatinyohannan@example.com | Phone: 9696532871 | Location: Chennai
+
+EDUCATION
+B.Sc Statistics — VIT Vellore (2024)
+
+SKILLS
+Python, OpenCV, NumPy, Computer Vision, NLTK, scikit-learn, Jupyter Notebook, TensorFlow, MVVM, Kubernetes
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Paytm (1 year)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+
+LANGUAGES
+Gujarati, English, Marathi"
+Imaran Dua,Data Science,medium,3,B.Sc Mathematics,"Machine Learning, OpenCV, NLP, NLTK, XGBoost, PyTorch, spaCy, LightGBM, Exit Management, Grafana","IBM Data Science Professional, AWS ML Specialty","Name: Imaran Dua
+Email: pahalbhatt@example.com | Phone: 09784801845 | Location: Gurugram
+
+EDUCATION
+B.Sc Mathematics — Bennett University (2019)
+
+SKILLS
+Machine Learning, OpenCV, NLP, NLTK, XGBoost, PyTorch, spaCy, LightGBM, Exit Management, Grafana
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — PhonePe (3 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+
+CERTIFICATIONS
+• IBM Data Science Professional
+• AWS ML Specialty
+
+LANGUAGES
+Bengali, Tamil, Telugu"
+Chaaya Saran,Data Science,medium,1,B.Sc Mathematics,"Python, LightGBM, XGBoost, Pandas, Machine Learning, spaCy, Deep Learning, Seaborn, Bootstrap, Node.js",IBM Data Science Professional,"Name: Chaaya Saran
+Email: sudikshaaggarwal@example.net | Phone: 4828148932 | Location: Gurugram
+
+EDUCATION
+B.Sc Mathematics — Netaji Subhas University of Technology (2020)
+
+SKILLS
+Python, LightGBM, XGBoost, Pandas, Machine Learning, spaCy, Deep Learning, Seaborn, Bootstrap, Node.js
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — MakeMyTrip (1 year)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+
+CERTIFICATIONS
+• IBM Data Science Professional
+
+LANGUAGES
+Gujarati, Hindi"
+Neel Zacharia,Data Science,medium,3,B.Sc Statistics,"SQL, Data Visualization, Feature Engineering, OpenCV, R, spaCy, TensorFlow, Machine Learning, AWS Glue, Scala",None,"Name: Neel Zacharia
+Email: naikvrinda@example.org | Phone: +915430391171 | Location: Hyderabad
+
+EDUCATION
+B.Sc Statistics — Netaji Subhas University of Technology (2022)
+
+SKILLS
+SQL, Data Visualization, Feature Engineering, OpenCV, R, spaCy, TensorFlow, Machine Learning, AWS Glue, Scala
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Zomato (3 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• COVID-19 Dashboard: Built an interactive data visualization dashboard using Tableau and Python to track COVID trends across Indian states.
+
+LANGUAGES
+Punjabi, Gujarati, Tamil"
+Kabir Soman,Data Science,medium,1,B.Sc Statistics,"XGBoost, Python, Machine Learning, NLTK, Pandas, NumPy, Computer Vision, Jupyter Notebook, Kubernetes, Hadoop",Coursera ML Specialization,"Name: Kabir Soman
+Email: alkawable@example.net | Phone: 03834657871 | Location: Gurugram
+
+EDUCATION
+B.Sc Statistics — Bennett University (2018)
+
+SKILLS
+XGBoost, Python, Machine Learning, NLTK, Pandas, NumPy, Computer Vision, Jupyter Notebook, Kubernetes, Hadoop
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Amazon India (1 year)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+
+CERTIFICATIONS
+• Coursera ML Specialization
+
+LANGUAGES
+Marathi, Bengali, Gujarati"
+Umang Bhatt,Data Science,medium,1,B.Tech CSE,"LightGBM, OpenCV, XGBoost, R, Seaborn, Machine Learning, spaCy, Keras, Hadoop, GCP","Google Data Analytics Certificate, IBM Data Science Professional","Name: Umang Bhatt
+Email: ansh98@example.org | Phone: 3010310518 | Location: New Delhi
+
+EDUCATION
+B.Tech CSE — Lovely Professional University (2019)
+
+SKILLS
+LightGBM, OpenCV, XGBoost, R, Seaborn, Machine Learning, spaCy, Keras, Hadoop, GCP
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Wipro (1 year)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+• Stock Price Forecasting: Implemented LSTM using TensorFlow/Keras to forecast stock prices, achieving RMSE of 4.2 on NSE data.
+
+CERTIFICATIONS
+• Google Data Analytics Certificate
+• IBM Data Science Professional
+
+LANGUAGES
+Hindi, Telugu, Gujarati"
+Arya Sunder,Data Science,medium,1,B.Sc Mathematics,"Keras, Seaborn, Pandas, NumPy, Statistics, TensorFlow, Data Visualization, LightGBM, Java, MySQL","IBM Data Science Professional, AWS ML Specialty","Name: Arya Sunder
+Email: kevinsolanki@example.org | Phone: 06311656670 | Location: Hyderabad
+
+EDUCATION
+B.Sc Mathematics — Manipal Institute of Technology (2018)
+
+SKILLS
+Keras, Seaborn, Pandas, NumPy, Statistics, TensorFlow, Data Visualization, LightGBM, Java, MySQL
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Wipro (1 year)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Stock Price Forecasting: Implemented LSTM using TensorFlow/Keras to forecast stock prices, achieving RMSE of 4.2 on NSE data.
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+
+CERTIFICATIONS
+• IBM Data Science Professional
+• AWS ML Specialty
+
+LANGUAGES
+Bengali, English"
+Darsh Rau,Data Science,medium,3,B.Tech CSE,"Matplotlib, Jupyter Notebook, spaCy, Tableau, Computer Vision, Python, Power BI, Seaborn, AWS, MySQL",AWS ML Specialty,"Name: Darsh Rau
+Email: ikbal33@example.org | Phone: 7262473178 | Location: Pune
+
+EDUCATION
+B.Tech CSE — NIT Trichy (2022)
+
+SKILLS
+Matplotlib, Jupyter Notebook, spaCy, Tableau, Computer Vision, Python, Power BI, Seaborn, AWS, MySQL
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Tech Mahindra (3 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• COVID-19 Dashboard: Built an interactive data visualization dashboard using Tableau and Python to track COVID trends across Indian states.
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+
+CERTIFICATIONS
+• AWS ML Specialty
+
+LANGUAGES
+Bengali, Hindi"
+Chandresh Zachariah,Data Science,low,1,M.Sc Data Science,"NumPy, R, Python, GitHub Actions, Push Notifications, LiveData, AWS, Prometheus",None,"Name: Chandresh Zachariah
+Email: chanderwarjas@example.org | Phone: 07736026064 | Location: Mumbai
+
+EDUCATION
+M.Sc Data Science — Bennett University (2022)
+
+SKILLS
+NumPy, R, Python, GitHub Actions, Push Notifications, LiveData, AWS, Prometheus
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — TCS (1 year)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+• COVID-19 Dashboard: Built an interactive data visualization dashboard using Tableau and Python to track COVID trends across Indian states.
+
+LANGUAGES
+Hindi, Bengali"
+Bhavika Sampath,Data Science,low,0,B.Sc Mathematics,"Matplotlib, SQL, R, Security, Google Maps API, Networking, SQLite, Docker",None,"Name: Bhavika Sampath
+Email: mdubey@example.com | Phone: +910980500978 | Location: Mumbai
+
+EDUCATION
+B.Sc Mathematics — KIIT University (2024)
+
+SKILLS
+Matplotlib, SQL, R, Security, Google Maps API, Networking, SQLite, Docker
+
+PROJECTS
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+• COVID-19 Dashboard: Built an interactive data visualization dashboard using Tableau and Python to track COVID trends across Indian states.
+
+LANGUAGES
+Punjabi, Hindi, Marathi"
+Dakshesh Trivedi,Data Science,low,2,B.Sc Statistics,"OpenCV, spaCy, Pandas, Monitoring, SQLite, CI/CD, Android SDK, GCP",None,"Name: Dakshesh Trivedi
+Email: grewalekapad@example.net | Phone: +913619399091 | Location: Hyderabad
+
+EDUCATION
+B.Sc Statistics — Netaji Subhas University of Technology (2024)
+
+SKILLS
+OpenCV, spaCy, Pandas, Monitoring, SQLite, CI/CD, Android SDK, GCP
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Zomato (2 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+
+LANGUAGES
+Telugu, Marathi, Hindi"
+Diya Lal,Data Science,low,1,M.Tech AI,"Machine Learning, NLTK, Matplotlib, Cassandra, Data Warehousing, Navigation Component, Kotlin, Room Database",None,"Name: Diya Lal
+Email: diptakhare@example.com | Phone: 02475107991 | Location: Noida
+
+EDUCATION
+M.Tech AI — Guru Gobind Singh Indraprastha University (2022)
+
+SKILLS
+Machine Learning, NLTK, Matplotlib, Cassandra, Data Warehousing, Navigation Component, Kotlin, Room Database
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — IBM India (1 year)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Stock Price Forecasting: Implemented LSTM using TensorFlow/Keras to forecast stock prices, achieving RMSE of 4.2 on NSE data.
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+
+LANGUAGES
+Hindi, Telugu"
+Tanay Toor,Data Science,low,2,M.Sc Data Science,"scikit-learn, NumPy, R, TypeScript, Next.js, Redis, Webpack, Figma",None,"Name: Tanay Toor
+Email: kevin51@example.org | Phone: 04278498084 | Location: Chennai
+
+EDUCATION
+M.Sc Data Science — BITS Pilani (2019)
+
+SKILLS
+scikit-learn, NumPy, R, TypeScript, Next.js, Redis, Webpack, Figma
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Google India (2 years)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Customer Churn Prediction: Built a machine learning model using scikit-learn and XGBoost to predict customer churn with 88% accuracy on telecom data.
+• Stock Price Forecasting: Implemented LSTM using TensorFlow/Keras to forecast stock prices, achieving RMSE of 4.2 on NSE data.
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+
+LANGUAGES
+Hindi, Bengali, Punjabi"
+Krish Lalla,Data Science,low,1,M.Sc Data Science,"Seaborn, Statistics, NLTK, Jetpack Compose, Git, Networking, CI/CD, Security",None,"Name: Krish Lalla
+Email: chhabranachiket@example.com | Phone: 09353487401 | Location: Pune
+
+EDUCATION
+M.Sc Data Science — KIIT University (2019)
+
+SKILLS
+Seaborn, Statistics, NLTK, Jetpack Compose, Git, Networking, CI/CD, Security
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — BYJU'S (1 year)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+• COVID-19 Dashboard: Built an interactive data visualization dashboard using Tableau and Python to track COVID trends across Indian states.
+
+LANGUAGES
+Marathi, Telugu, English"
+Aradhana Basu,Data Science,low,1,M.Sc Data Science,"Feature Engineering, Power BI, scikit-learn, MS Excel, Linux, Payroll, People Analytics, PostgreSQL",None,"Name: Aradhana Basu
+Email: nathkalpit@example.net | Phone: 02786801128 | Location: Pune
+
+EDUCATION
+M.Sc Data Science — BITS Pilani (2022)
+
+SKILLS
+Feature Engineering, Power BI, scikit-learn, MS Excel, Linux, Payroll, People Analytics, PostgreSQL
+
+EXPERIENCE
+Data Science Intern / Junior Data Scientist — Microsoft India (1 year)
+Worked on data science projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• NLP Sentiment Analyzer: Developed a sentiment classification system using NLTK, spaCy, and Logistic Regression on Amazon product reviews dataset.
+
+LANGUAGES
+Tamil, Bengali"
+Kala Divan,Web Development,high,3,Diploma in Web Development,"MySQL, Docker, Redis, JavaScript, Git, Flask, MongoDB, Django, Figma, TypeScript, Node.js, React",None,"Name: Kala Divan
+Email: cdatta@example.com | Phone: 00533158692 | Location: Gurugram
+
+EDUCATION
+Diploma in Web Development — NIT Trichy (2018)
+
+SKILLS
+MySQL, Docker, Redis, JavaScript, Git, Flask, MongoDB, Django, Figma, TypeScript, Node.js, React
+
+EXPERIENCE
+Web Developer / Frontend Developer — Zoho (3 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Task Management App: Built a real-time collaborative task manager using React, Firebase, and Tailwind CSS with drag-and-drop functionality.
+
+LANGUAGES
+Tamil, Hindi, Bengali"
+Nicholas Goel,Web Development,high,2,BCA,"Git, Bootstrap, AWS, Tailwind CSS, Redis, Next.js, Figma, Webpack, Docker, PostgreSQL, REST API, MySQL",Google UX Design Certificate,"Name: Nicholas Goel
+Email: lbakshi@example.net | Phone: 06342160733 | Location: Gurugram
+
+EDUCATION
+BCA — NIT Trichy (2024)
+
+SKILLS
+Git, Bootstrap, AWS, Tailwind CSS, Redis, Next.js, Figma, Webpack, Docker, PostgreSQL, REST API, MySQL
+
+EXPERIENCE
+Web Developer / Frontend Developer — Swiggy (2 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Task Management App: Built a real-time collaborative task manager using React, Firebase, and Tailwind CSS with drag-and-drop functionality.
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+
+CERTIFICATIONS
+• Google UX Design Certificate
+
+LANGUAGES
+Telugu, Marathi"
+Inaya Mody,Web Development,high,2,Diploma in Web Development,"MySQL, REST API, Next.js, Bootstrap, Tailwind CSS, JavaScript, Node.js, Redis, Django, Vue.js, AWS, React",Google UX Design Certificate,"Name: Inaya Mody
+Email: udantbajwa@example.net | Phone: +916541458685 | Location: Noida
+
+EDUCATION
+Diploma in Web Development — Netaji Subhas University of Technology (2018)
+
+SKILLS
+MySQL, REST API, Next.js, Bootstrap, Tailwind CSS, JavaScript, Node.js, Redis, Django, Vue.js, AWS, React
+
+EXPERIENCE
+Web Developer / Frontend Developer — Flipkart (2 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+
+CERTIFICATIONS
+• Google UX Design Certificate
+
+LANGUAGES
+Marathi, English, Hindi"
+Jack Lal,Web Development,high,5,B.Tech CSE,"Vue.js, TypeScript, Django, Flask, Tailwind CSS, Redis, MySQL, Docker, REST API, Node.js, MongoDB, Figma","freeCodeCamp Full Stack, AWS Developer Associate","Name: Jack Lal
+Email: alkabarad@example.org | Phone: 6556981693 | Location: New Delhi
+
+EDUCATION
+B.Tech CSE — Bennett University (2020)
+
+SKILLS
+Vue.js, TypeScript, Django, Flask, Tailwind CSS, Redis, MySQL, Docker, REST API, Node.js, MongoDB, Figma
+
+EXPERIENCE
+Web Developer / Frontend Developer — MakeMyTrip (5 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+
+CERTIFICATIONS
+• freeCodeCamp Full Stack
+• AWS Developer Associate
+
+LANGUAGES
+Punjabi, Telugu, Marathi"
+Chaitanya Sarin,Web Development,high,5,B.Sc IT,"Express.js, CSS, REST API, Django, Next.js, MongoDB, Git, Redis, Tailwind CSS, PostgreSQL, Vue.js, MySQL",Meta Front-End Developer Certificate,"Name: Chaitanya Sarin
+Email: venkateshronith@example.com | Phone: 01595148465 | Location: Bengaluru
+
+EDUCATION
+B.Sc IT — Jamia Millia Islamia (2024)
+
+SKILLS
+Express.js, CSS, REST API, Django, Next.js, MongoDB, Git, Redis, Tailwind CSS, PostgreSQL, Vue.js, MySQL
+
+EXPERIENCE
+Web Developer / Frontend Developer — Wipro (5 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+
+CERTIFICATIONS
+• Meta Front-End Developer Certificate
+
+LANGUAGES
+Bengali, Hindi"
+Chakrika Datta,Web Development,medium,1,B.Tech IT,"Node.js, MySQL, Docker, Bootstrap, React, Figma, TypeScript, GraphQL, LiveData, Exit Management",None,"Name: Chakrika Datta
+Email: osharaghavan@example.net | Phone: 2994680443 | Location: Pune
+
+EDUCATION
+B.Tech IT — NIT Trichy (2023)
+
+SKILLS
+Node.js, MySQL, Docker, Bootstrap, React, Figma, TypeScript, GraphQL, LiveData, Exit Management
+
+EXPERIENCE
+Web Developer / Frontend Developer — HCL Technologies (1 year)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+• Task Management App: Built a real-time collaborative task manager using React, Firebase, and Tailwind CSS with drag-and-drop functionality.
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+
+LANGUAGES
+Hindi, Telugu, English"
+Ekanta Shroff,Web Development,medium,3,B.Tech CSE,"PostgreSQL, MySQL, React, Webpack, TypeScript, Node.js, CSS, Git, Linux, Kafka",None,"Name: Ekanta Shroff
+Email: rsathe@example.org | Phone: 7214895134 | Location: Chennai
+
+EDUCATION
+B.Tech CSE — VIT Vellore (2023)
+
+SKILLS
+PostgreSQL, MySQL, React, Webpack, TypeScript, Node.js, CSS, Git, Linux, Kafka
+
+EXPERIENCE
+Web Developer / Frontend Developer — Microsoft India (3 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+
+LANGUAGES
+Gujarati, English, Tamil"
+Rushil Din,Web Development,medium,1,B.Tech CSE,"AWS, PostgreSQL, REST API, Redis, Tailwind CSS, GraphQL, Docker, Git, Kotlin, Workforce Planning",MongoDB Developer Certificate,"Name: Rushil Din
+Email: batrayash@example.com | Phone: 1769367632 | Location: Chennai
+
+EDUCATION
+B.Tech CSE — Jamia Millia Islamia (2021)
+
+SKILLS
+AWS, PostgreSQL, REST API, Redis, Tailwind CSS, GraphQL, Docker, Git, Kotlin, Workforce Planning
+
+EXPERIENCE
+Web Developer / Frontend Developer — Accenture (1 year)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+
+CERTIFICATIONS
+• MongoDB Developer Certificate
+
+LANGUAGES
+Bengali, English, Tamil"
+Hredhaan Sandal,Web Development,medium,2,B.Sc IT,"Next.js, REST API, Redis, Webpack, Tailwind CSS, HTML, PostgreSQL, MongoDB, Networking, Docker","freeCodeCamp Full Stack, MongoDB Developer Certificate","Name: Hredhaan Sandal
+Email: patrickvasa@example.com | Phone: +918317278895 | Location: Hyderabad
+
+EDUCATION
+B.Sc IT — VIT Vellore (2024)
+
+SKILLS
+Next.js, REST API, Redis, Webpack, Tailwind CSS, HTML, PostgreSQL, MongoDB, Networking, Docker
+
+EXPERIENCE
+Web Developer / Frontend Developer — Accenture (2 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Task Management App: Built a real-time collaborative task manager using React, Firebase, and Tailwind CSS with drag-and-drop functionality.
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+
+CERTIFICATIONS
+• freeCodeCamp Full Stack
+• MongoDB Developer Certificate
+
+LANGUAGES
+English, Gujarati, Punjabi"
+Yamini Sandhu,Web Development,medium,2,B.Tech CSE,"AWS, Vue.js, Flask, Figma, Tailwind CSS, Next.js, Django, GraphQL, Push Notifications, Material Design",None,"Name: Yamini Sandhu
+Email: vdutt@example.com | Phone: 04348734714 | Location: Gurugram
+
+EDUCATION
+B.Tech CSE — NIT Trichy (2019)
+
+SKILLS
+AWS, Vue.js, Flask, Figma, Tailwind CSS, Next.js, Django, GraphQL, Push Notifications, Material Design
+
+EXPERIENCE
+Web Developer / Frontend Developer — Microsoft India (2 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+
+LANGUAGES
+Tamil, Hindi"
+Anita Nayak,Web Development,medium,2,Diploma in Web Development,"Vue.js, Express.js, TypeScript, HTML, Webpack, Bootstrap, MongoDB, Django, Labor Law, LightGBM",Meta Front-End Developer Certificate,"Name: Anita Nayak
+Email: faris22@example.org | Phone: 02316658760 | Location: Gurugram
+
+EDUCATION
+Diploma in Web Development — Guru Gobind Singh Indraprastha University (2023)
+
+SKILLS
+Vue.js, Express.js, TypeScript, HTML, Webpack, Bootstrap, MongoDB, Django, Labor Law, LightGBM
+
+EXPERIENCE
+Web Developer / Frontend Developer — Zoho (2 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+
+CERTIFICATIONS
+• Meta Front-End Developer Certificate
+
+LANGUAGES
+Telugu, Tamil"
+Osha Ramachandran,Web Development,medium,2,B.Tech CSE,"React, JavaScript, Django, Docker, GraphQL, CSS, MongoDB, Webpack, Payroll, Workforce Planning","MongoDB Developer Certificate, AWS Developer Associate","Name: Osha Ramachandran
+Email: raivansha@example.org | Phone: 04668893734 | Location: Noida
+
+EDUCATION
+B.Tech CSE — VIT Vellore (2024)
+
+SKILLS
+React, JavaScript, Django, Docker, GraphQL, CSS, MongoDB, Webpack, Payroll, Workforce Planning
+
+EXPERIENCE
+Web Developer / Frontend Developer — Flipkart (2 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+
+CERTIFICATIONS
+• MongoDB Developer Certificate
+• AWS Developer Associate
+
+LANGUAGES
+Gujarati, Tamil, Punjabi"
+Vedika Balakrishnan,Web Development,medium,1,Diploma in Web Development,"MongoDB, REST API, Bootstrap, JavaScript, Express.js, Vue.js, TypeScript, React, R, Deep Learning",None,"Name: Vedika Balakrishnan
+Email: qnayar@example.net | Phone: 02729806990 | Location: Pune
+
+EDUCATION
+Diploma in Web Development — Manipal Institute of Technology (2021)
+
+SKILLS
+MongoDB, REST API, Bootstrap, JavaScript, Express.js, Vue.js, TypeScript, React, R, Deep Learning
+
+EXPERIENCE
+Web Developer / Frontend Developer — Oracle India (1 year)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+
+LANGUAGES
+Telugu, Bengali"
+Priya Deshmukh,Web Development,low,2,BCA,"Bootstrap, MongoDB, Git, Nginx, Matplotlib, XGBoost, TensorFlow, Deep Learning",None,"Name: Priya Deshmukh
+Email: dgopal@example.com | Phone: 05375564641 | Location: Pune
+
+EDUCATION
+BCA — Chandigarh University (2020)
+
+SKILLS
+Bootstrap, MongoDB, Git, Nginx, Matplotlib, XGBoost, TensorFlow, Deep Learning
+
+EXPERIENCE
+Web Developer / Frontend Developer — BYJU'S (2 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+• Task Management App: Built a real-time collaborative task manager using React, Firebase, and Tailwind CSS with drag-and-drop functionality.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+
+LANGUAGES
+Gujarati, English, Tamil"
+Anirudh Zacharia,Web Development,low,2,B.Tech CSE,"CSS, Flask, Vue.js, Onboarding, Payroll, HRIS, Unit Testing, Play Store Deployment",None,"Name: Anirudh Zacharia
+Email: pallaudarsh@example.net | Phone: +910033092327 | Location: Gurugram
+
+EDUCATION
+B.Tech CSE — Chandigarh University (2023)
+
+SKILLS
+CSS, Flask, Vue.js, Onboarding, Payroll, HRIS, Unit Testing, Play Store Deployment
+
+EXPERIENCE
+Web Developer / Frontend Developer — IBM India (2 years)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Task Management App: Built a real-time collaborative task manager using React, Firebase, and Tailwind CSS with drag-and-drop functionality.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+
+LANGUAGES
+Punjabi, Tamil"
+Tejas Shroff,Web Development,low,1,B.Sc IT,"JavaScript, Docker, Django, MongoDB, Play Store Deployment, AWS Glue, dbt, Cassandra",None,"Name: Tejas Shroff
+Email: jyoti29@example.net | Phone: 1241904966 | Location: Chennai
+
+EDUCATION
+B.Sc IT — NIT Trichy (2021)
+
+SKILLS
+JavaScript, Docker, Django, MongoDB, Play Store Deployment, AWS Glue, dbt, Cassandra
+
+EXPERIENCE
+Web Developer / Frontend Developer — Oracle India (1 year)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+
+LANGUAGES
+English, Tamil, Gujarati"
+Faqid Kibe,Web Development,low,0,B.Sc IT,"Bootstrap, Tailwind CSS, Git, Data Warehousing, Matplotlib, Linux, NLP, NLTK",None,"Name: Faqid Kibe
+Email: mitrajai@example.net | Phone: +915865185067 | Location: Mumbai
+
+EDUCATION
+B.Sc IT — BITS Pilani (2021)
+
+SKILLS
+Bootstrap, Tailwind CSS, Git, Data Warehousing, Matplotlib, Linux, NLP, NLTK
+
+PROJECTS
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+
+LANGUAGES
+Tamil, Punjabi"
+Rachita Pathak,Web Development,low,0,B.Tech CSE,"PostgreSQL, Redis, MySQL, LiveData, Docker, Kotlin, Linux, Grafana",None,"Name: Rachita Pathak
+Email: bdua@example.org | Phone: 8498776945 | Location: Pune
+
+EDUCATION
+B.Tech CSE — SRM Institute of Science and Technology (2018)
+
+SKILLS
+PostgreSQL, Redis, MySQL, LiveData, Docker, Kotlin, Linux, Grafana
+
+PROJECTS
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+• Task Management App: Built a real-time collaborative task manager using React, Firebase, and Tailwind CSS with drag-and-drop functionality.
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+
+LANGUAGES
+Gujarati, Bengali"
+Gabriel Mallick,Web Development,low,1,MCA,"Tailwind CSS, Node.js, Flask, Git, GitLab, Onboarding, Security, Policy Drafting",None,"Name: Gabriel Mallick
+Email: wkohli@example.com | Phone: 9650752735 | Location: Gurugram
+
+EDUCATION
+MCA — Lovely Professional University (2018)
+
+SKILLS
+Tailwind CSS, Node.js, Flask, Git, GitLab, Onboarding, Security, Policy Drafting
+
+EXPERIENCE
+Web Developer / Frontend Developer — Oracle India (1 year)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Blog Platform: Created a blogging platform using Django REST Framework and React with JWT authentication and Markdown support.
+• Task Management App: Built a real-time collaborative task manager using React, Firebase, and Tailwind CSS with drag-and-drop functionality.
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+
+LANGUAGES
+Gujarati, Marathi, Hindi"
+Harini Mammen,Web Development,low,1,Diploma in Web Development,"MongoDB, Webpack, REST API, HRIS, Redshift, Performance Management, SQL, ETL Pipelines",None,"Name: Harini Mammen
+Email: advaith83@example.org | Phone: +916783777014 | Location: Mumbai
+
+EDUCATION
+Diploma in Web Development — KIIT University (2024)
+
+SKILLS
+MongoDB, Webpack, REST API, HRIS, Redshift, Performance Management, SQL, ETL Pipelines
+
+EXPERIENCE
+Web Developer / Frontend Developer — Amazon India (1 year)
+Worked on web development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Portfolio Website: Designed and deployed a personal portfolio with Next.js, deployed on Vercel with contact form and dark mode support.
+• E-Commerce Platform: Developed a full-stack e-commerce app with React frontend, Node.js backend, MongoDB database, and Razorpay payment integration.
+• Task Management App: Built a real-time collaborative task manager using React, Firebase, and Tailwind CSS with drag-and-drop functionality.
+
+LANGUAGES
+Punjabi, Tamil, English"
+Nidhi Kohli,DevOps,high,2,B.Sc IT,"Docker, ELK Stack, Git, Prometheus, Networking, Monitoring, CI/CD, Nginx, Python, Grafana, Shell Scripting, Helm","Azure DevOps Engineer, HashiCorp Terraform Associate","Name: Nidhi Kohli
+Email: jyoti78@example.net | Phone: 06855744431 | Location: New Delhi
+
+EDUCATION
+B.Sc IT — BITS Pilani (2018)
+
+SKILLS
+Docker, ELK Stack, Git, Prometheus, Networking, Monitoring, CI/CD, Nginx, Python, Grafana, Shell Scripting, Helm
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Microsoft India (2 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+• Infrastructure as Code: Provisioned AWS infrastructure (EC2, RDS, S3) using Terraform and Ansible for configuration management.
+
+CERTIFICATIONS
+• Azure DevOps Engineer
+• HashiCorp Terraform Associate
+
+LANGUAGES
+Gujarati, Marathi, Telugu"
+Diya Dar,DevOps,high,3,MCA,"Prometheus, Jenkins, Networking, ELK Stack, Grafana, Linux, Terraform, Docker, CI/CD, Helm, GitHub Actions, Kubernetes",None,"Name: Diya Dar
+Email: rehaankalita@example.net | Phone: 04989413435 | Location: Mumbai
+
+EDUCATION
+MCA — Amity University Noida (2020)
+
+SKILLS
+Prometheus, Jenkins, Networking, ELK Stack, Grafana, Linux, Terraform, Docker, CI/CD, Helm, GitHub Actions, Kubernetes
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Flipkart (3 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Infrastructure as Code: Provisioned AWS infrastructure (EC2, RDS, S3) using Terraform and Ansible for configuration management.
+
+LANGUAGES
+Marathi, Telugu"
+Chasmum Atwal,DevOps,high,2,B.Tech CSE,"Bash, Security, Azure, Nginx, GitHub Actions, Git, Monitoring, Grafana, Ansible, Networking, Linux, Shell Scripting",Azure DevOps Engineer,"Name: Chasmum Atwal
+Email: anushabath@example.org | Phone: 4271094777 | Location: Chennai
+
+EDUCATION
+B.Tech CSE — KIIT University (2024)
+
+SKILLS
+Bash, Security, Azure, Nginx, GitHub Actions, Git, Monitoring, Grafana, Ansible, Networking, Linux, Shell Scripting
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Zomato (2 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+• Infrastructure as Code: Provisioned AWS infrastructure (EC2, RDS, S3) using Terraform and Ansible for configuration management.
+
+CERTIFICATIONS
+• Azure DevOps Engineer
+
+LANGUAGES
+Hindi, Tamil"
+Qarin Behl,DevOps,high,4,B.Sc IT,"AWS, Shell Scripting, Nginx, Jenkins, Azure, ELK Stack, GitHub Actions, Python, Grafana, Microservices, Docker, Networking","AWS Solutions Architect, HashiCorp Terraform Associate","Name: Qarin Behl
+Email: vanya11@example.com | Phone: 01902294131 | Location: Hyderabad
+
+EDUCATION
+B.Sc IT — Jamia Millia Islamia (2018)
+
+SKILLS
+AWS, Shell Scripting, Nginx, Jenkins, Azure, ELK Stack, GitHub Actions, Python, Grafana, Microservices, Docker, Networking
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Razorpay (4 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Infrastructure as Code: Provisioned AWS infrastructure (EC2, RDS, S3) using Terraform and Ansible for configuration management.
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+
+CERTIFICATIONS
+• AWS Solutions Architect
+• HashiCorp Terraform Associate
+
+LANGUAGES
+Tamil, Telugu, Punjabi"
+Upkaar Virk,DevOps,high,3,MCA,"Networking, Microservices, Kubernetes, Terraform, Grafana, Monitoring, GitHub Actions, Python, Linux, Jenkins, Bash, ELK Stack",None,"Name: Upkaar Virk
+Email: cseshadri@example.com | Phone: 6499091334 | Location: Pune
+
+EDUCATION
+MCA — NIT Trichy (2021)
+
+SKILLS
+Networking, Microservices, Kubernetes, Terraform, Grafana, Monitoring, GitHub Actions, Python, Linux, Jenkins, Bash, ELK Stack
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Cognizant (3 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+
+LANGUAGES
+Bengali, Telugu"
+Naksh Khatri,DevOps,medium,2,MCA,"Ansible, Jenkins, Grafana, CI/CD, Git, Python, GitLab, Monitoring, Deep Learning, Java",Docker Certified Associate,"Name: Naksh Khatri
+Email: falandugar@example.org | Phone: 07974034471 | Location: Hyderabad
+
+EDUCATION
+MCA — VIT Vellore (2018)
+
+SKILLS
+Ansible, Jenkins, Grafana, CI/CD, Git, Python, GitLab, Monitoring, Deep Learning, Java
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Zomato (2 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+
+CERTIFICATIONS
+• Docker Certified Associate
+
+LANGUAGES
+Bengali, English, Gujarati"
+Aishani Hora,DevOps,medium,3,B.Tech CSE,"Networking, CI/CD, Grafana, Monitoring, Terraform, Helm, Git, Linux, Jupyter Notebook, Payroll",None,"Name: Aishani Hora
+Email: icontractor@example.org | Phone: 2421024994 | Location: Noida
+
+EDUCATION
+B.Tech CSE — Maharaja Surajmal Institute of Technology (2019)
+
+SKILLS
+Networking, CI/CD, Grafana, Monitoring, Terraform, Helm, Git, Linux, Jupyter Notebook, Payroll
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — PhonePe (3 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Infrastructure as Code: Provisioned AWS infrastructure (EC2, RDS, S3) using Terraform and Ansible for configuration management.
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+
+LANGUAGES
+Gujarati, Punjabi, Bengali"
+Jeet Sidhu,DevOps,medium,3,M.Tech CSE,"GCP, Kubernetes, Monitoring, Python, AWS, GitHub Actions, Microservices, Ansible, Power BI, R",None,"Name: Jeet Sidhu
+Email: neha48@example.net | Phone: 07190659401 | Location: Gurugram
+
+EDUCATION
+M.Tech CSE — KIIT University (2023)
+
+SKILLS
+GCP, Kubernetes, Monitoring, Python, AWS, GitHub Actions, Microservices, Ansible, Power BI, R
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Google India (3 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Infrastructure as Code: Provisioned AWS infrastructure (EC2, RDS, S3) using Terraform and Ansible for configuration management.
+
+LANGUAGES
+Telugu, Hindi, English"
+Ansh Luthra,DevOps,medium,1,B.Tech CSE,"Azure, Git, GitHub Actions, AWS, CI/CD, Monitoring, Ansible, ELK Stack, TypeScript, Material Design",None,"Name: Ansh Luthra
+Email: gillupma@example.net | Phone: 7429671756 | Location: New Delhi
+
+EDUCATION
+B.Tech CSE — Jamia Millia Islamia (2024)
+
+SKILLS
+Azure, Git, GitHub Actions, AWS, CI/CD, Monitoring, Ansible, ELK Stack, TypeScript, Material Design
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Tech Mahindra (1 year)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+
+LANGUAGES
+Punjabi, English, Bengali"
+Ekani Cheema,DevOps,medium,1,MCA,"Ansible, Docker, Linux, GCP, Kubernetes, Azure, GitHub Actions, Security, Employee Relations, Performance Management",Azure DevOps Engineer,"Name: Ekani Cheema
+Email: forumsabharwal@example.net | Phone: 04680715451 | Location: Pune
+
+EDUCATION
+MCA — VIT Vellore (2022)
+
+SKILLS
+Ansible, Docker, Linux, GCP, Kubernetes, Azure, GitHub Actions, Security, Employee Relations, Performance Management
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — HCL Technologies (1 year)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+
+CERTIFICATIONS
+• Azure DevOps Engineer
+
+LANGUAGES
+English, Bengali"
+Yoshita Agarwal,DevOps,medium,2,MCA,"Security, Jenkins, Nginx, Monitoring, Grafana, CI/CD, Microservices, Python, Employee Relations, Compensation & Benefits","Docker Certified Associate, HashiCorp Terraform Associate","Name: Yoshita Agarwal
+Email: dsachdev@example.org | Phone: 5977034824 | Location: Noida
+
+EDUCATION
+MCA — Manipal Institute of Technology (2023)
+
+SKILLS
+Security, Jenkins, Nginx, Monitoring, Grafana, CI/CD, Microservices, Python, Employee Relations, Compensation & Benefits
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Razorpay (2 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+
+CERTIFICATIONS
+• Docker Certified Associate
+• HashiCorp Terraform Associate
+
+LANGUAGES
+Gujarati, Telugu, Marathi"
+Vedhika Dara,DevOps,medium,2,MCA,"Azure, Prometheus, Ansible, Grafana, Shell Scripting, GitHub Actions, Jenkins, Nginx, Play Store Deployment, PySpark",None,"Name: Vedhika Dara
+Email: khatrinathan@example.com | Phone: 0861317127 | Location: Noida
+
+EDUCATION
+MCA — Guru Gobind Singh Indraprastha University (2023)
+
+SKILLS
+Azure, Prometheus, Ansible, Grafana, Shell Scripting, GitHub Actions, Jenkins, Nginx, Play Store Deployment, PySpark
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Swiggy (2 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+
+LANGUAGES
+Hindi, English"
+Yashodhara Mahajan,DevOps,medium,3,MCA,"GitHub Actions, GitLab, Ansible, Security, Jenkins, Nginx, Prometheus, Microservices, Jetpack Compose, Jupyter Notebook",None,"Name: Yashodhara Mahajan
+Email: esubramanian@example.org | Phone: 08263982146 | Location: Bengaluru
+
+EDUCATION
+MCA — Maharaja Surajmal Institute of Technology (2022)
+
+SKILLS
+GitHub Actions, GitLab, Ansible, Security, Jenkins, Nginx, Prometheus, Microservices, Jetpack Compose, Jupyter Notebook
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Paytm (3 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+
+LANGUAGES
+Gujarati, Hindi"
+Yashica Loke,DevOps,low,0,B.Tech IT,"Prometheus, GitLab, Security, Jupyter Notebook, OpenCV, spaCy, Compliance, Onboarding",None,"Name: Yashica Loke
+Email: mandalchanchal@example.net | Phone: 7278755886 | Location: Mumbai
+
+EDUCATION
+B.Tech IT — Jamia Millia Islamia (2023)
+
+SKILLS
+Prometheus, GitLab, Security, Jupyter Notebook, OpenCV, spaCy, Compliance, Onboarding
+
+PROJECTS
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+
+LANGUAGES
+Bengali, Punjabi, English"
+Ekanta Gulati,DevOps,low,2,MCA,"Networking, Docker, Jenkins, Express.js, MySQL, Next.js, JavaScript, MS Excel",None,"Name: Ekanta Gulati
+Email: leelakaur@example.com | Phone: +915766270289 | Location: Mumbai
+
+EDUCATION
+MCA — Jamia Millia Islamia (2023)
+
+SKILLS
+Networking, Docker, Jenkins, Express.js, MySQL, Next.js, JavaScript, MS Excel
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Microsoft India (2 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+
+LANGUAGES
+English, Hindi"
+Harish Sarraf,DevOps,low,2,B.Sc IT,"Prometheus, Nginx, Security, Delta Lake, PostgreSQL, Compensation & Benefits, Redshift, Docker",None,"Name: Harish Sarraf
+Email: voratanmayi@example.org | Phone: 2621745961 | Location: Noida
+
+EDUCATION
+B.Sc IT — Maharaja Surajmal Institute of Technology (2020)
+
+SKILLS
+Prometheus, Nginx, Security, Delta Lake, PostgreSQL, Compensation & Benefits, Redshift, Docker
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — MakeMyTrip (2 years)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+
+LANGUAGES
+Telugu, English, Hindi"
+Lajita Nadig,DevOps,low,0,B.Tech IT,"Microservices, GCP, Ansible, Java, Matplotlib, spaCy, PyTorch, ViewModel",None,"Name: Lajita Nadig
+Email: nbanik@example.org | Phone: +914316117240 | Location: Noida
+
+EDUCATION
+B.Tech IT — Bennett University (2022)
+
+SKILLS
+Microservices, GCP, Ansible, Java, Matplotlib, spaCy, PyTorch, ViewModel
+
+PROJECTS
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+• Infrastructure as Code: Provisioned AWS infrastructure (EC2, RDS, S3) using Terraform and Ansible for configuration management.
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+
+LANGUAGES
+Bengali, English"
+Ekta Bhalla,DevOps,low,1,B.Tech IT,"GitHub Actions, Prometheus, Networking, Data Modeling, Redshift, Onboarding, SQL, MongoDB",None,"Name: Ekta Bhalla
+Email: jagrati56@example.org | Phone: +918692221969 | Location: Hyderabad
+
+EDUCATION
+B.Tech IT — Chandigarh University (2022)
+
+SKILLS
+GitHub Actions, Prometheus, Networking, Data Modeling, Redshift, Onboarding, SQL, MongoDB
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Zomato (1 year)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Multi-Cloud Deployment: Migrated a monolithic app to microservices architecture deployed across AWS and GCP using Docker and Helm charts.
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+
+LANGUAGES
+Hindi, Tamil, English"
+Widisha Dhar,DevOps,low,1,M.Tech CSE,"ELK Stack, Ansible, Azure, Firebase, Next.js, GraphQL, Room Database, Vue.js",None,"Name: Widisha Dhar
+Email: triyakumar@example.com | Phone: 00748217594 | Location: Mumbai
+
+EDUCATION
+M.Tech CSE — Netaji Subhas University of Technology (2024)
+
+SKILLS
+ELK Stack, Ansible, Azure, Firebase, Next.js, GraphQL, Room Database, Vue.js
+
+EXPERIENCE
+DevOps Engineer / Cloud Infrastructure Intern — Google India (1 year)
+Worked on devops projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Infrastructure as Code: Provisioned AWS infrastructure (EC2, RDS, S3) using Terraform and Ansible for configuration management.
+• CI/CD Pipeline Automation: Set up end-to-end CI/CD pipelines using Jenkins, Docker, and Kubernetes for a Node.js microservices application.
+
+LANGUAGES
+Punjabi, Hindi, English"
+Zashil Shan,DevOps,low,0,M.Tech CSE,"Linux, Microservices, Security, Conflict Resolution, Talent Acquisition, Employee Relations, Compliance, Exit Management",None,"Name: Zashil Shan
+Email: rushil67@example.org | Phone: +916959440640 | Location: Gurugram
+
+EDUCATION
+M.Tech CSE — Amity University Noida (2024)
+
+SKILLS
+Linux, Microservices, Security, Conflict Resolution, Talent Acquisition, Employee Relations, Compliance, Exit Management
+
+PROJECTS
+• Monitoring Dashboard: Deployed Prometheus and Grafana for real-time monitoring of containerized applications with alerting rules.
+• Infrastructure as Code: Provisioned AWS infrastructure (EC2, RDS, S3) using Terraform and Ansible for configuration management.
+
+LANGUAGES
+Punjabi, Tamil, English"
+Watika Mangat,Android Development,high,2,B.Sc IT,"Android SDK, MVVM, Material Design, Coroutines, Kotlin, Unit Testing, ViewModel, Git, SQLite, XML, Push Notifications, Hilt",Meta Android Developer Certificate,"Name: Watika Mangat
+Email: indirakanda@example.net | Phone: +919421047095 | Location: Hyderabad
+
+EDUCATION
+B.Sc IT — Manipal Institute of Technology (2022)
+
+SKILLS
+Android SDK, MVVM, Material Design, Coroutines, Kotlin, Unit Testing, ViewModel, Git, SQLite, XML, Push Notifications, Hilt
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Amazon India (2 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• News Reader App: Developed a news aggregator Android app using Retrofit, REST API, and Jetpack Compose with category-based filtering.
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+
+CERTIFICATIONS
+• Meta Android Developer Certificate
+
+LANGUAGES
+Gujarati, Marathi"
+Gautam Merchant,Android Development,high,3,B.Sc IT,"XML, LiveData, Android SDK, Push Notifications, REST API, Kotlin, Room Database, ViewModel, Material Design, Navigation Component, Google Maps API, Coroutines",Udacity Android Nanodegree,"Name: Gautam Merchant
+Email: ojasvi23@example.org | Phone: 5884247451 | Location: New Delhi
+
+EDUCATION
+B.Sc IT — Guru Gobind Singh Indraprastha University (2020)
+
+SKILLS
+XML, LiveData, Android SDK, Push Notifications, REST API, Kotlin, Room Database, ViewModel, Material Design, Navigation Component, Google Maps API, Coroutines
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Google India (3 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+• Food Delivery App: Developed an Android food delivery app in Kotlin with real-time order tracking, Firebase Realtime Database, and Google Maps API.
+• Expense Tracker: Built a personal finance app using Kotlin, Room Database, and MVVM architecture with charts for spending analytics.
+
+CERTIFICATIONS
+• Udacity Android Nanodegree
+
+LANGUAGES
+Bengali, Gujarati, Telugu"
+Faqid Dhaliwal,Android Development,high,2,B.Tech IT,"Jetpack Compose, MVVM, Retrofit, Firebase, LiveData, Android SDK, Play Store Deployment, Material Design, Room Database, SQLite, Unit Testing, Coroutines",None,"Name: Faqid Dhaliwal
+Email: mekhalapau@example.org | Phone: 00481754965 | Location: Mumbai
+
+EDUCATION
+B.Tech IT — Guru Gobind Singh Indraprastha University (2022)
+
+SKILLS
+Jetpack Compose, MVVM, Retrofit, Firebase, LiveData, Android SDK, Play Store Deployment, Material Design, Room Database, SQLite, Unit Testing, Coroutines
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Naukri.com (2 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Food Delivery App: Developed an Android food delivery app in Kotlin with real-time order tracking, Firebase Realtime Database, and Google Maps API.
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+• Expense Tracker: Built a personal finance app using Kotlin, Room Database, and MVVM architecture with charts for spending analytics.
+
+LANGUAGES
+Marathi, Bengali, Punjabi"
+Vivaan Sinha,Android Development,high,4,B.Sc IT,"MVVM, REST API, SQLite, LiveData, Google Maps API, Coroutines, Room Database, Android SDK, XML, Kotlin, Retrofit, Hilt","Google Associate Android Developer, Udacity Android Nanodegree","Name: Vivaan Sinha
+Email: narangtimothy@example.net | Phone: +917461200471 | Location: Mumbai
+
+EDUCATION
+B.Sc IT — Chandigarh University (2022)
+
+SKILLS
+MVVM, REST API, SQLite, LiveData, Google Maps API, Coroutines, Room Database, Android SDK, XML, Kotlin, Retrofit, Hilt
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Freshworks (4 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Expense Tracker: Built a personal finance app using Kotlin, Room Database, and MVVM architecture with charts for spending analytics.
+
+CERTIFICATIONS
+• Google Associate Android Developer
+• Udacity Android Nanodegree
+
+LANGUAGES
+Marathi, Hindi"
+Wahab Yogi,Android Development,high,5,MCA,"ViewModel, Room Database, Material Design, MVVM, Coroutines, Hilt, Push Notifications, Firebase, Play Store Deployment, Navigation Component, LiveData, XML",Udacity Android Nanodegree,"Name: Wahab Yogi
+Email: lipikasetty@example.com | Phone: 8692617964 | Location: Mumbai
+
+EDUCATION
+MCA — BITS Pilani (2022)
+
+SKILLS
+ViewModel, Room Database, Material Design, MVVM, Coroutines, Hilt, Push Notifications, Firebase, Play Store Deployment, Navigation Component, LiveData, XML
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Zomato (5 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Food Delivery App: Developed an Android food delivery app in Kotlin with real-time order tracking, Firebase Realtime Database, and Google Maps API.
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+
+CERTIFICATIONS
+• Udacity Android Nanodegree
+
+LANGUAGES
+Marathi, Hindi, Gujarati"
+Kamala Kalla,Android Development,medium,2,BCA,"XML, Push Notifications, MVVM, Android SDK, REST API, Jetpack Compose, Coroutines, Hilt, Payroll",None,"Name: Kamala Kalla
+Email: psaxena@example.com | Phone: +915850643171 | Location: Chennai
+
+EDUCATION
+BCA — Lovely Professional University (2021)
+
+SKILLS
+XML, Push Notifications, MVVM, Android SDK, REST API, Jetpack Compose, Coroutines, Hilt, Payroll
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Google India (2 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• News Reader App: Developed a news aggregator Android app using Retrofit, REST API, and Jetpack Compose with category-based filtering.
+
+LANGUAGES
+English, Tamil, Telugu"
+Ansh Bedi,Android Development,medium,2,B.Tech IT,"Java, LiveData, XML, Hilt, Firebase, Room Database, Android SDK, Navigation Component, Bootstrap, MongoDB",None,"Name: Ansh Bedi
+Email: yagnesh29@example.org | Phone: +918393352904 | Location: Noida
+
+EDUCATION
+B.Tech IT — Manipal Institute of Technology (2018)
+
+SKILLS
+Java, LiveData, XML, Hilt, Firebase, Room Database, Android SDK, Navigation Component, Bootstrap, MongoDB
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Wipro (2 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+
+LANGUAGES
+Tamil, Marathi, Hindi"
+Kalpit Zachariah,Android Development,medium,2,B.Sc IT,"Kotlin, Room Database, Git, Hilt, Coroutines, Unit Testing, XML, Android SDK, Computer Vision, NumPy",Udacity Android Nanodegree,"Name: Kalpit Zachariah
+Email: owen10@example.org | Phone: +915395024026 | Location: Noida
+
+EDUCATION
+B.Sc IT — Netaji Subhas University of Technology (2023)
+
+SKILLS
+Kotlin, Room Database, Git, Hilt, Coroutines, Unit Testing, XML, Android SDK, Computer Vision, NumPy
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Tech Mahindra (2 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Food Delivery App: Developed an Android food delivery app in Kotlin with real-time order tracking, Firebase Realtime Database, and Google Maps API.
+
+CERTIFICATIONS
+• Udacity Android Nanodegree
+
+LANGUAGES
+Bengali, Hindi"
+Devansh Soni,Android Development,medium,1,B.Tech CSE,"Unit Testing, Push Notifications, Java, Jetpack Compose, Google Maps API, Android SDK, Material Design, SQLite, Monitoring, spaCy","Meta Android Developer Certificate, Google Associate Android Developer","Name: Devansh Soni
+Email: gpathak@example.net | Phone: +917839084700 | Location: Chennai
+
+EDUCATION
+B.Tech CSE — Amity University Noida (2019)
+
+SKILLS
+Unit Testing, Push Notifications, Java, Jetpack Compose, Google Maps API, Android SDK, Material Design, SQLite, Monitoring, spaCy
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Freshworks (1 year)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Expense Tracker: Built a personal finance app using Kotlin, Room Database, and MVVM architecture with charts for spending analytics.
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+• News Reader App: Developed a news aggregator Android app using Retrofit, REST API, and Jetpack Compose with category-based filtering.
+
+CERTIFICATIONS
+• Meta Android Developer Certificate
+• Google Associate Android Developer
+
+LANGUAGES
+Punjabi, English, Gujarati"
+Neelima Sandhu,Android Development,medium,3,B.Sc IT,"Firebase, Android SDK, Material Design, Kotlin, MVVM, LiveData, XML, Unit Testing, PostgreSQL, Redis",Udacity Android Nanodegree,"Name: Neelima Sandhu
+Email: swaminathansachi@example.org | Phone: +915921249985 | Location: Chennai
+
+EDUCATION
+B.Sc IT — Bennett University (2024)
+
+SKILLS
+Firebase, Android SDK, Material Design, Kotlin, MVVM, LiveData, XML, Unit Testing, PostgreSQL, Redis
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — PhonePe (3 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+
+CERTIFICATIONS
+• Udacity Android Nanodegree
+
+LANGUAGES
+Tamil, Punjabi"
+Chaitaly Setty,Android Development,medium,1,B.Tech CSE,"Git, Jetpack Compose, Material Design, LiveData, REST API, Hilt, Navigation Component, SQLite, Payroll, GCP","Udacity Android Nanodegree, Meta Android Developer Certificate","Name: Chaitaly Setty
+Email: ychaudhary@example.net | Phone: +918367365766 | Location: Pune
+
+EDUCATION
+B.Tech CSE — Bennett University (2022)
+
+SKILLS
+Git, Jetpack Compose, Material Design, LiveData, REST API, Hilt, Navigation Component, SQLite, Payroll, GCP
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Cognizant (1 year)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• News Reader App: Developed a news aggregator Android app using Retrofit, REST API, and Jetpack Compose with category-based filtering.
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+
+CERTIFICATIONS
+• Udacity Android Nanodegree
+• Meta Android Developer Certificate
+
+LANGUAGES
+Hindi, Punjabi"
+Dhriti Sane,Android Development,medium,1,BCA,"Material Design, ViewModel, Kotlin, Coroutines, Git, MVVM, Android SDK, Hilt, GCP, ELK Stack","Udacity Android Nanodegree, Google Associate Android Developer","Name: Dhriti Sane
+Email: aadhya52@example.net | Phone: 01111615280 | Location: Chennai
+
+EDUCATION
+BCA — Delhi Technological University (2019)
+
+SKILLS
+Material Design, ViewModel, Kotlin, Coroutines, Git, MVVM, Android SDK, Hilt, GCP, ELK Stack
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — BYJU'S (1 year)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• News Reader App: Developed a news aggregator Android app using Retrofit, REST API, and Jetpack Compose with category-based filtering.
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+
+CERTIFICATIONS
+• Udacity Android Nanodegree
+• Google Associate Android Developer
+
+LANGUAGES
+Hindi, Gujarati"
+Jason Roy,Android Development,medium,3,B.Tech CSE,"Navigation Component, Material Design, ViewModel, Android SDK, Play Store Deployment, REST API, Git, Room Database, Nginx, Azure","Udacity Android Nanodegree, Google Associate Android Developer","Name: Jason Roy
+Email: pallavi04@example.net | Phone: 05198327315 | Location: Hyderabad
+
+EDUCATION
+B.Tech CSE — NIT Trichy (2019)
+
+SKILLS
+Navigation Component, Material Design, ViewModel, Android SDK, Play Store Deployment, REST API, Git, Room Database, Nginx, Azure
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Swiggy (3 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+• News Reader App: Developed a news aggregator Android app using Retrofit, REST API, and Jetpack Compose with category-based filtering.
+• Expense Tracker: Built a personal finance app using Kotlin, Room Database, and MVVM architecture with charts for spending analytics.
+
+CERTIFICATIONS
+• Udacity Android Nanodegree
+• Google Associate Android Developer
+
+LANGUAGES
+Telugu, Bengali, Tamil"
+Ishwar Mallick,Android Development,low,0,B.Tech CSE,"Android SDK, Material Design, SQLite, Jupyter Notebook, MongoDB, LightGBM, Docker, Power BI",None,"Name: Ishwar Mallick
+Email: pushtibal@example.net | Phone: 4024455022 | Location: Mumbai
+
+EDUCATION
+B.Tech CSE — VIT Vellore (2022)
+
+SKILLS
+Android SDK, Material Design, SQLite, Jupyter Notebook, MongoDB, LightGBM, Docker, Power BI
+
+PROJECTS
+• Expense Tracker: Built a personal finance app using Kotlin, Room Database, and MVVM architecture with charts for spending analytics.
+• Food Delivery App: Developed an Android food delivery app in Kotlin with real-time order tracking, Firebase Realtime Database, and Google Maps API.
+
+LANGUAGES
+Telugu, Marathi, Hindi"
+Ekaraj Dhar,Android Development,low,0,B.Tech CSE,"Google Maps API, Java, Jetpack Compose, Ansible, Helm, Compensation & Benefits, Networking, Payroll",None,"Name: Ekaraj Dhar
+Email: chandtanveer@example.com | Phone: 07525459910 | Location: Bengaluru
+
+EDUCATION
+B.Tech CSE — Jamia Millia Islamia (2021)
+
+SKILLS
+Google Maps API, Java, Jetpack Compose, Ansible, Helm, Compensation & Benefits, Networking, Payroll
+
+PROJECTS
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+
+LANGUAGES
+Marathi, Gujarati, Tamil"
+Nakul Bawa,Android Development,low,1,B.Sc IT,"Navigation Component, Push Notifications, ViewModel, REST API, HRMS, Compensation & Benefits, React, MySQL",None,"Name: Nakul Bawa
+Email: magarsaanvi@example.net | Phone: 07976438156 | Location: Hyderabad
+
+EDUCATION
+B.Sc IT — Guru Gobind Singh Indraprastha University (2020)
+
+SKILLS
+Navigation Component, Push Notifications, ViewModel, REST API, HRMS, Compensation & Benefits, React, MySQL
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Cognizant (1 year)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+• Food Delivery App: Developed an Android food delivery app in Kotlin with real-time order tracking, Firebase Realtime Database, and Google Maps API.
+
+LANGUAGES
+Bengali, Gujarati"
+Bhanumati Sur,Android Development,low,2,BCA,"Unit Testing, Retrofit, Firebase, Pandas, Computer Vision, Ansible, Statistics, Terraform",None,"Name: Bhanumati Sur
+Email: chakradev36@example.net | Phone: +910343244510 | Location: Bengaluru
+
+EDUCATION
+BCA — BITS Pilani (2022)
+
+SKILLS
+Unit Testing, Retrofit, Firebase, Pandas, Computer Vision, Ansible, Statistics, Terraform
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Freshworks (2 years)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+
+LANGUAGES
+English, Marathi, Gujarati"
+Qushi Gill,Android Development,low,1,B.Tech IT,"Coroutines, Hilt, Java, GitLab, Tableau, AWS, Scala, Bash",None,"Name: Qushi Gill
+Email: lajitawalia@example.net | Phone: +918851606071 | Location: Noida
+
+EDUCATION
+B.Tech IT — Jamia Millia Islamia (2021)
+
+SKILLS
+Coroutines, Hilt, Java, GitLab, Tableau, AWS, Scala, Bash
+
+EXPERIENCE
+Android Developer Intern / Junior Android Engineer — Wipro (1 year)
+Worked on android development projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• News Reader App: Developed a news aggregator Android app using Retrofit, REST API, and Jetpack Compose with category-based filtering.
+• Food Delivery App: Developed an Android food delivery app in Kotlin with real-time order tracking, Firebase Realtime Database, and Google Maps API.
+
+LANGUAGES
+Punjabi, Tamil"
+Pushti Ravel,Android Development,low,0,B.Tech IT,"LiveData, ViewModel, Material Design, GCP, Python, MongoDB, PostgreSQL, Docker",None,"Name: Pushti Ravel
+Email: hmann@example.com | Phone: +915297516136 | Location: New Delhi
+
+EDUCATION
+B.Tech IT — Maharaja Surajmal Institute of Technology (2020)
+
+SKILLS
+LiveData, ViewModel, Material Design, GCP, Python, MongoDB, PostgreSQL, Docker
+
+PROJECTS
+• News Reader App: Developed a news aggregator Android app using Retrofit, REST API, and Jetpack Compose with category-based filtering.
+• Chat Application: Created a real-time chat app using Kotlin, Firebase Authentication, and Firestore with push notifications via FCM.
+
+LANGUAGES
+Tamil, Hindi, English"
+Farhan Randhawa,Android Development,low,0,B.Tech CSE,"LiveData, Play Store Deployment, ViewModel, Policy Drafting, Compensation & Benefits, Payroll, Redis, CSS",None,"Name: Farhan Randhawa
+Email: harinakshi35@example.org | Phone: +918188355231 | Location: Chennai
+
+EDUCATION
+B.Tech CSE — Bennett University (2022)
+
+SKILLS
+LiveData, Play Store Deployment, ViewModel, Policy Drafting, Compensation & Benefits, Payroll, Redis, CSS
+
+PROJECTS
+• Food Delivery App: Developed an Android food delivery app in Kotlin with real-time order tracking, Firebase Realtime Database, and Google Maps API.
+
+LANGUAGES
+Tamil, Hindi, Telugu"
+Aahana Hora,Data Engineering,high,4,B.Sc Statistics,"MongoDB, Cassandra, Scala, Snowflake, Delta Lake, Python, Hadoop, PostgreSQL, AWS Glue, Docker, Linux, PySpark",None,"Name: Aahana Hora
+Email: michaelborra@example.org | Phone: 7799799552 | Location: Hyderabad
+
+EDUCATION
+B.Sc Statistics — Chandigarh University (2021)
+
+SKILLS
+MongoDB, Cassandra, Scala, Snowflake, Delta Lake, Python, Hadoop, PostgreSQL, AWS Glue, Docker, Linux, PySpark
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Google India (4 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+
+LANGUAGES
+English, Telugu, Marathi"
+Ekansh Singh,Data Engineering,high,5,B.Sc Statistics,"Delta Lake, BigQuery, Tableau, Cassandra, Hadoop, Kafka, MongoDB, Data Warehousing, Scala, PySpark, Redshift, ETL Pipelines","Snowflake SnowPro Core, AWS Data Analytics Specialty","Name: Ekansh Singh
+Email: ymitter@example.com | Phone: 0581477005 | Location: Mumbai
+
+EDUCATION
+B.Sc Statistics — Chandigarh University (2019)
+
+SKILLS
+Delta Lake, BigQuery, Tableau, Cassandra, Hadoop, Kafka, MongoDB, Data Warehousing, Scala, PySpark, Redshift, ETL Pipelines
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Capgemini (5 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+• Real-Time Streaming Pipeline: Developed a real-time data streaming solution using Kafka and PySpark for processing social media feeds.
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+
+CERTIFICATIONS
+• Snowflake SnowPro Core
+• AWS Data Analytics Specialty
+
+LANGUAGES
+English, Gujarati"
+Faraj Chana,Data Engineering,high,3,MCA,"Kafka, dbt, Tableau, Docker, Airflow, Data Warehousing, Snowflake, MongoDB, Linux, PySpark, MySQL, AWS Glue",Databricks Certified Data Engineer,"Name: Faraj Chana
+Email: lshere@example.net | Phone: 0793597820 | Location: New Delhi
+
+EDUCATION
+MCA — Lovely Professional University (2018)
+
+SKILLS
+Kafka, dbt, Tableau, Docker, Airflow, Data Warehousing, Snowflake, MongoDB, Linux, PySpark, MySQL, AWS Glue
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Google India (3 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+• Real-Time Streaming Pipeline: Developed a real-time data streaming solution using Kafka and PySpark for processing social media feeds.
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+
+CERTIFICATIONS
+• Databricks Certified Data Engineer
+
+LANGUAGES
+Telugu, Marathi, Bengali"
+Harshil Oza,Data Engineering,high,2,B.Sc Statistics,"Airflow, PySpark, MongoDB, Tableau, Data Warehousing, Kafka, Redshift, SQL, AWS Glue, Linux, Python, ETL Pipelines","Google Professional Data Engineer, Snowflake SnowPro Core","Name: Harshil Oza
+Email: thamanorinder@example.org | Phone: +917788925546 | Location: Hyderabad
+
+EDUCATION
+B.Sc Statistics — Bennett University (2019)
+
+SKILLS
+Airflow, PySpark, MongoDB, Tableau, Data Warehousing, Kafka, Redshift, SQL, AWS Glue, Linux, Python, ETL Pipelines
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Flipkart (2 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+• Real-Time Streaming Pipeline: Developed a real-time data streaming solution using Kafka and PySpark for processing social media feeds.
+
+CERTIFICATIONS
+• Google Professional Data Engineer
+• Snowflake SnowPro Core
+
+LANGUAGES
+English, Bengali, Hindi"
+Hamsini Ben,Data Engineering,high,5,M.Tech CSE,"MySQL, Delta Lake, dbt, Docker, ETL Pipelines, BigQuery, Scala, AWS Glue, Snowflake, Kafka, Data Warehousing, Cassandra","Google Professional Data Engineer, AWS Data Analytics Specialty","Name: Hamsini Ben
+Email: dominic51@example.net | Phone: 6449251925 | Location: Pune
+
+EDUCATION
+M.Tech CSE — Jamia Millia Islamia (2024)
+
+SKILLS
+MySQL, Delta Lake, dbt, Docker, ETL Pipelines, BigQuery, Scala, AWS Glue, Snowflake, Kafka, Data Warehousing, Cassandra
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Oracle India (5 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+
+CERTIFICATIONS
+• Google Professional Data Engineer
+• AWS Data Analytics Specialty
+
+LANGUAGES
+Bengali, Tamil, Punjabi"
+Manya Dayal,Data Engineering,medium,2,B.Sc Statistics,"Kafka, Snowflake, SQL, Docker, Apache Spark, Scala, Data Modeling, Data Warehousing, Jetpack Compose, Django",Google Professional Data Engineer,"Name: Manya Dayal
+Email: mukherjeekrisha@example.net | Phone: 02816850542 | Location: New Delhi
+
+EDUCATION
+B.Sc Statistics — KIIT University (2022)
+
+SKILLS
+Kafka, Snowflake, SQL, Docker, Apache Spark, Scala, Data Modeling, Data Warehousing, Jetpack Compose, Django
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Naukri.com (2 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Real-Time Streaming Pipeline: Developed a real-time data streaming solution using Kafka and PySpark for processing social media feeds.
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+
+CERTIFICATIONS
+• Google Professional Data Engineer
+
+LANGUAGES
+Tamil, Hindi"
+Harita Sunder,Data Engineering,medium,1,B.Sc Statistics,"dbt, Docker, Scala, Hadoop, Cassandra, Airflow, Python, AWS Glue, Compensation & Benefits, Jetpack Compose",None,"Name: Harita Sunder
+Email: upkaardevan@example.org | Phone: +914188805929 | Location: New Delhi
+
+EDUCATION
+B.Sc Statistics — Amity University Noida (2020)
+
+SKILLS
+dbt, Docker, Scala, Hadoop, Cassandra, Airflow, Python, AWS Glue, Compensation & Benefits, Jetpack Compose
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Ola (1 year)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+
+LANGUAGES
+Tamil, Telugu"
+Mitesh Gaba,Data Engineering,medium,1,M.Sc Data Science,"Scala, Airflow, Linux, Snowflake, SQL, Python, Data Warehousing, Kafka, Employee Relations, Exit Management","Snowflake SnowPro Core, Google Professional Data Engineer","Name: Mitesh Gaba
+Email: noahsarma@example.org | Phone: 05379473834 | Location: Mumbai
+
+EDUCATION
+M.Sc Data Science — VIT Vellore (2021)
+
+SKILLS
+Scala, Airflow, Linux, Snowflake, SQL, Python, Data Warehousing, Kafka, Employee Relations, Exit Management
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Tech Mahindra (1 year)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+• Real-Time Streaming Pipeline: Developed a real-time data streaming solution using Kafka and PySpark for processing social media feeds.
+
+CERTIFICATIONS
+• Snowflake SnowPro Core
+• Google Professional Data Engineer
+
+LANGUAGES
+Hindi, Punjabi"
+Rishi Pillai,Data Engineering,medium,1,B.Tech CSE,"dbt, Snowflake, Data Modeling, Cassandra, AWS Glue, Airflow, Scala, PySpark, Payroll, AWS",Google Professional Data Engineer,"Name: Rishi Pillai
+Email: xshenoy@example.com | Phone: 08862392407 | Location: Hyderabad
+
+EDUCATION
+B.Tech CSE — Guru Gobind Singh Indraprastha University (2019)
+
+SKILLS
+dbt, Snowflake, Data Modeling, Cassandra, AWS Glue, Airflow, Scala, PySpark, Payroll, AWS
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Swiggy (1 year)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+• Real-Time Streaming Pipeline: Developed a real-time data streaming solution using Kafka and PySpark for processing social media feeds.
+
+CERTIFICATIONS
+• Google Professional Data Engineer
+
+LANGUAGES
+Telugu, Tamil"
+Harshil Varty,Data Engineering,medium,3,M.Sc Data Science,"Data Modeling, Python, BigQuery, MongoDB, ETL Pipelines, Snowflake, Apache Spark, Kafka, LiveData, Jenkins",Databricks Certified Data Engineer,"Name: Harshil Varty
+Email: manefiyaz@example.org | Phone: 07826137506 | Location: Hyderabad
+
+EDUCATION
+M.Sc Data Science — KIIT University (2023)
+
+SKILLS
+Data Modeling, Python, BigQuery, MongoDB, ETL Pipelines, Snowflake, Apache Spark, Kafka, LiveData, Jenkins
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Zoho (3 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+
+CERTIFICATIONS
+• Databricks Certified Data Engineer
+
+LANGUAGES
+Bengali, Telugu, Hindi"
+Meghana Thakkar,Data Engineering,medium,2,M.Sc Data Science,"Tableau, ETL Pipelines, PostgreSQL, Docker, Delta Lake, Data Modeling, Cassandra, AWS Glue, Matplotlib, TensorFlow","Databricks Certified Data Engineer, Snowflake SnowPro Core","Name: Meghana Thakkar
+Email: warinder61@example.com | Phone: +910515220472 | Location: Chennai
+
+EDUCATION
+M.Sc Data Science — NIT Trichy (2020)
+
+SKILLS
+Tableau, ETL Pipelines, PostgreSQL, Docker, Delta Lake, Data Modeling, Cassandra, AWS Glue, Matplotlib, TensorFlow
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Wipro (2 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+
+CERTIFICATIONS
+• Databricks Certified Data Engineer
+• Snowflake SnowPro Core
+
+LANGUAGES
+Punjabi, Hindi"
+Saumya Ahluwalia,Data Engineering,medium,1,B.Tech CSE,"MySQL, SQL, Kafka, PySpark, PostgreSQL, Tableau, Apache Spark, Linux, Python, Helm",None,"Name: Saumya Ahluwalia
+Email: bahlaahana@example.org | Phone: +918986143410 | Location: Bengaluru
+
+EDUCATION
+B.Tech CSE — NIT Trichy (2019)
+
+SKILLS
+MySQL, SQL, Kafka, PySpark, PostgreSQL, Tableau, Apache Spark, Linux, Python, Helm
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Razorpay (1 year)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+• Real-Time Streaming Pipeline: Developed a real-time data streaming solution using Kafka and PySpark for processing social media feeds.
+
+LANGUAGES
+Marathi, Punjabi"
+Oni Shankar,Data Engineering,medium,2,M.Tech CSE,"Airflow, Kafka, MongoDB, Linux, PostgreSQL, MySQL, Scala, Delta Lake, REST API, Conflict Resolution",None,"Name: Oni Shankar
+Email: choudhryxalak@example.net | Phone: 0893246095 | Location: Mumbai
+
+EDUCATION
+M.Tech CSE — BITS Pilani (2024)
+
+SKILLS
+Airflow, Kafka, MongoDB, Linux, PostgreSQL, MySQL, Scala, Delta Lake, REST API, Conflict Resolution
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Google India (2 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Real-Time Streaming Pipeline: Developed a real-time data streaming solution using Kafka and PySpark for processing social media feeds.
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+
+LANGUAGES
+Marathi, Telugu"
+Omaja Grover,Data Engineering,low,2,B.Sc Statistics,"Linux, Delta Lake, PostgreSQL, HRIS, Workforce Planning, LiveData, XML, Labor Law",None,"Name: Omaja Grover
+Email: viswanathanjalsa@example.org | Phone: 8888067065 | Location: Noida
+
+EDUCATION
+B.Sc Statistics — Netaji Subhas University of Technology (2023)
+
+SKILLS
+Linux, Delta Lake, PostgreSQL, HRIS, Workforce Planning, LiveData, XML, Labor Law
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Zoho (2 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+
+LANGUAGES
+English, Marathi"
+Amol Parikh,Data Engineering,low,2,M.Sc Data Science,"SQL, MySQL, Cassandra, Bootstrap, Machine Learning, spaCy, JavaScript, Feature Engineering",None,"Name: Amol Parikh
+Email: paiwridesh@example.net | Phone: 1952058527 | Location: Pune
+
+EDUCATION
+M.Sc Data Science — Netaji Subhas University of Technology (2024)
+
+SKILLS
+SQL, MySQL, Cassandra, Bootstrap, Machine Learning, spaCy, JavaScript, Feature Engineering
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Zoho (2 years)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+
+LANGUAGES
+Punjabi, Telugu"
+Qabil Deshmukh,Data Engineering,low,1,M.Tech CSE,"Kafka, Cassandra, Delta Lake, Redis, Tailwind CSS, React, ViewModel, Git",None,"Name: Qabil Deshmukh
+Email: shankarbalhaar@example.com | Phone: +910305486874 | Location: Noida
+
+EDUCATION
+M.Tech CSE — BITS Pilani (2023)
+
+SKILLS
+Kafka, Cassandra, Delta Lake, Redis, Tailwind CSS, React, ViewModel, Git
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Flipkart (1 year)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+• Real-Time Streaming Pipeline: Developed a real-time data streaming solution using Kafka and PySpark for processing social media feeds.
+
+LANGUAGES
+English, Punjabi, Bengali"
+Rayaan Mangal,Data Engineering,low,1,B.Tech CSE,"Data Warehousing, Airflow, Tableau, Material Design, Coroutines, Figma, MVVM, MySQL",None,"Name: Rayaan Mangal
+Email: champak54@example.org | Phone: 06676527758 | Location: Pune
+
+EDUCATION
+B.Tech CSE — VIT Vellore (2021)
+
+SKILLS
+Data Warehousing, Airflow, Tableau, Material Design, Coroutines, Figma, MVVM, MySQL
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Flipkart (1 year)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+
+LANGUAGES
+Marathi, Hindi"
+Fitan Samra,Data Engineering,low,1,M.Tech CSE,"Apache Spark, Delta Lake, Redshift, NLTK, GitLab, Shell Scripting, Machine Learning, TensorFlow",None,"Name: Fitan Samra
+Email: sanipranit@example.net | Phone: 05115447962 | Location: Chennai
+
+EDUCATION
+M.Tech CSE — Chandigarh University (2024)
+
+SKILLS
+Apache Spark, Delta Lake, Redshift, NLTK, GitLab, Shell Scripting, Machine Learning, TensorFlow
+
+EXPERIENCE
+Data Engineering Intern / Junior Data Engineer — Razorpay (1 year)
+Worked on data engineering projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+
+LANGUAGES
+Gujarati, Hindi"
+Indali Sekhon,Data Engineering,low,0,MCA,"Linux, Scala, Redshift, MongoDB, Workforce Planning, AWS, CSS, People Analytics",None,"Name: Indali Sekhon
+Email: panditradhika@example.com | Phone: 0165820297 | Location: Gurugram
+
+EDUCATION
+MCA — SRM Institute of Science and Technology (2022)
+
+SKILLS
+Linux, Scala, Redshift, MongoDB, Workforce Planning, AWS, CSS, People Analytics
+
+PROJECTS
+• ETL Pipeline for E-Commerce: Built scalable ETL pipelines using Apache Spark and Airflow to process 10GB+ daily transactional data into Redshift.
+• Data Warehouse Migration: Migrated legacy Oracle data warehouse to Snowflake, reducing query time by 60% using dbt for transformations.
+
+LANGUAGES
+Telugu, Punjabi, Marathi"
+Jonathan Bhavsar,Data Engineering,low,0,M.Sc Data Science,"ETL Pipelines, dbt, Scala, Bootstrap, Matplotlib, R, Computer Vision, TypeScript",None,"Name: Jonathan Bhavsar
+Email: jeevikapathak@example.com | Phone: 0927557192 | Location: Chennai
+
+EDUCATION
+M.Sc Data Science — Manipal Institute of Technology (2023)
+
+SKILLS
+ETL Pipelines, dbt, Scala, Bootstrap, Matplotlib, R, Computer Vision, TypeScript
+
+PROJECTS
+• Log Analytics Platform: Designed ELK Stack-based log analytics system to monitor and alert on application errors across microservices.
+
+LANGUAGES
+Telugu, Hindi, Marathi"
+Mitali Murthy,HR,high,3,MBA HR,"MS Excel, Compensation & Benefits, Workforce Planning, Exit Management, Policy Drafting, Performance Management, Communication, Payroll, HRMS, People Analytics, HRIS, Talent Acquisition",None,"Name: Mitali Murthy
+Email: zaid10@example.net | Phone: +917868144739 | Location: New Delhi
+
+EDUCATION
+MBA HR — KIIT University (2022)
+
+SKILLS
+MS Excel, Compensation & Benefits, Workforce Planning, Exit Management, Policy Drafting, Performance Management, Communication, Payroll, HRMS, People Analytics, HRIS, Talent Acquisition
+
+EXPERIENCE
+HR Executive / HR Intern — Ola (3 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+
+LANGUAGES
+Hindi, Marathi"
+Vritti Iyengar,HR,high,3,BBA,"Performance Management, Employee Relations, Recruitment, Training & Development, Compensation & Benefits, Policy Drafting, Payroll, Exit Management, Compliance, People Analytics, HRIS, Workforce Planning",SHRM-CP,"Name: Vritti Iyengar
+Email: deshmukhethan@example.com | Phone: +917155188442 | Location: Pune
+
+EDUCATION
+BBA — Delhi Technological University (2022)
+
+SKILLS
+Performance Management, Employee Relations, Recruitment, Training & Development, Compensation & Benefits, Policy Drafting, Payroll, Exit Management, Compliance, People Analytics, HRIS, Workforce Planning
+
+EXPERIENCE
+HR Executive / HR Intern — PhonePe (3 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+
+CERTIFICATIONS
+• SHRM-CP
+
+LANGUAGES
+Telugu, Gujarati"
+Janaki Trivedi,HR,high,3,BBA HR,"Exit Management, Employee Relations, Policy Drafting, Training & Development, Labor Law, Compensation & Benefits, Compliance, Payroll, MS Excel, Conflict Resolution, Onboarding, Communication","PHR Certification, Coursera HR Management","Name: Janaki Trivedi
+Email: jairajiyer@example.org | Phone: +917058957829 | Location: Noida
+
+EDUCATION
+BBA HR — SRM Institute of Science and Technology (2022)
+
+SKILLS
+Exit Management, Employee Relations, Policy Drafting, Training & Development, Labor Law, Compensation & Benefits, Compliance, Payroll, MS Excel, Conflict Resolution, Onboarding, Communication
+
+EXPERIENCE
+HR Executive / HR Intern — Accenture (3 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+
+CERTIFICATIONS
+• PHR Certification
+• Coursera HR Management
+
+LANGUAGES
+English, Gujarati"
+Dominic More,HR,high,5,MBA HR,"Recruitment, Payroll, Performance Management, Workforce Planning, Talent Acquisition, Training & Development, MS Excel, Compliance, Exit Management, HRMS, HRIS, Onboarding","Coursera HR Management, PHR Certification","Name: Dominic More
+Email: hsrinivas@example.com | Phone: 09125177852 | Location: Pune
+
+EDUCATION
+MBA HR — Netaji Subhas University of Technology (2024)
+
+SKILLS
+Recruitment, Payroll, Performance Management, Workforce Planning, Talent Acquisition, Training & Development, MS Excel, Compliance, Exit Management, HRMS, HRIS, Onboarding
+
+EXPERIENCE
+HR Executive / HR Intern — Naukri.com (5 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+
+CERTIFICATIONS
+• Coursera HR Management
+• PHR Certification
+
+LANGUAGES
+Hindi, Bengali"
+Kai Sant,HR,high,2,B.Com,"Employee Relations, Conflict Resolution, Performance Management, Labor Law, Exit Management, Workforce Planning, HRMS, Talent Acquisition, MS Excel, HRIS, Compensation & Benefits, People Analytics","SHRM-CP, LinkedIn HR Fundamentals","Name: Kai Sant
+Email: dashzarna@example.org | Phone: 02253584143 | Location: Hyderabad
+
+EDUCATION
+B.Com — Guru Gobind Singh Indraprastha University (2024)
+
+SKILLS
+Employee Relations, Conflict Resolution, Performance Management, Labor Law, Exit Management, Workforce Planning, HRMS, Talent Acquisition, MS Excel, HRIS, Compensation & Benefits, People Analytics
+
+EXPERIENCE
+HR Executive / HR Intern — Naukri.com (2 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+
+CERTIFICATIONS
+• SHRM-CP
+• LinkedIn HR Fundamentals
+
+LANGUAGES
+English, Gujarati, Tamil"
+Jeremiah Mitter,HR,medium,2,BA Psychology,"Compensation & Benefits, HRIS, Workforce Planning, Policy Drafting, Payroll, Communication, Labor Law, Compliance, Express.js, Google Maps API",None,"Name: Jeremiah Mitter
+Email: thakkarom@example.net | Phone: 2299590010 | Location: Noida
+
+EDUCATION
+BA Psychology — Chandigarh University (2019)
+
+SKILLS
+Compensation & Benefits, HRIS, Workforce Planning, Policy Drafting, Payroll, Communication, Labor Law, Compliance, Express.js, Google Maps API
+
+EXPERIENCE
+HR Executive / HR Intern — Naukri.com (2 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+
+LANGUAGES
+Telugu, Hindi"
+Shivansh Saha,HR,medium,2,BBA HR,"Performance Management, Recruitment, Labor Law, HRIS, Payroll, Compliance, Policy Drafting, HRMS, Vue.js, Deep Learning",SHRM-CP,"Name: Shivansh Saha
+Email: tankbimala@example.net | Phone: 07364710276 | Location: Bengaluru
+
+EDUCATION
+BBA HR — VIT Vellore (2022)
+
+SKILLS
+Performance Management, Recruitment, Labor Law, HRIS, Payroll, Compliance, Policy Drafting, HRMS, Vue.js, Deep Learning
+
+EXPERIENCE
+HR Executive / HR Intern — Paytm (2 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+
+CERTIFICATIONS
+• SHRM-CP
+
+LANGUAGES
+Hindi, Punjabi"
+Ucchal Jani,HR,medium,2,MBA HR,"Performance Management, Compliance, Policy Drafting, Payroll, MS Excel, Labor Law, HRMS, Exit Management, GitLab, AWS Glue",Coursera HR Management,"Name: Ucchal Jani
+Email: maanas55@example.net | Phone: 06258815371 | Location: Chennai
+
+EDUCATION
+MBA HR — Maharaja Surajmal Institute of Technology (2019)
+
+SKILLS
+Performance Management, Compliance, Policy Drafting, Payroll, MS Excel, Labor Law, HRMS, Exit Management, GitLab, AWS Glue
+
+EXPERIENCE
+HR Executive / HR Intern — Flipkart (2 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+
+CERTIFICATIONS
+• Coursera HR Management
+
+LANGUAGES
+Gujarati, Marathi, English"
+Shivani Kota,HR,medium,3,BA Psychology,"Training & Development, HRIS, HRMS, Employee Relations, Workforce Planning, Recruitment, Labor Law, Compensation & Benefits, Cassandra, Firebase","PHR Certification, Coursera HR Management","Name: Shivani Kota
+Email: gunbirbedi@example.com | Phone: 09632595327 | Location: Mumbai
+
+EDUCATION
+BA Psychology — Bennett University (2024)
+
+SKILLS
+Training & Development, HRIS, HRMS, Employee Relations, Workforce Planning, Recruitment, Labor Law, Compensation & Benefits, Cassandra, Firebase
+
+EXPERIENCE
+HR Executive / HR Intern — Ola (3 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+
+CERTIFICATIONS
+• PHR Certification
+• Coursera HR Management
+
+LANGUAGES
+Tamil, Gujarati, Punjabi"
+Wishi Morar,HR,medium,3,BBA,"MS Excel, Conflict Resolution, Compensation & Benefits, Compliance, Payroll, Onboarding, Talent Acquisition, HRMS, Redis, Vue.js",None,"Name: Wishi Morar
+Email: fbajaj@example.com | Phone: 7339500479 | Location: Bengaluru
+
+EDUCATION
+BBA — NIT Trichy (2021)
+
+SKILLS
+MS Excel, Conflict Resolution, Compensation & Benefits, Compliance, Payroll, Onboarding, Talent Acquisition, HRMS, Redis, Vue.js
+
+EXPERIENCE
+HR Executive / HR Intern — Naukri.com (3 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+
+LANGUAGES
+Telugu, Marathi, Bengali"
+Bhavika Yadav,HR,medium,1,BA Psychology,"Employee Relations, Talent Acquisition, Conflict Resolution, Performance Management, Policy Drafting, HRIS, MS Excel, People Analytics, Data Warehousing, Android SDK","SHRM-CP, Coursera HR Management","Name: Bhavika Yadav
+Email: chokshiraagini@example.org | Phone: 05650609835 | Location: New Delhi
+
+EDUCATION
+BA Psychology — NIT Trichy (2024)
+
+SKILLS
+Employee Relations, Talent Acquisition, Conflict Resolution, Performance Management, Policy Drafting, HRIS, MS Excel, People Analytics, Data Warehousing, Android SDK
+
+EXPERIENCE
+HR Executive / HR Intern — PhonePe (1 year)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+
+CERTIFICATIONS
+• SHRM-CP
+• Coursera HR Management
+
+LANGUAGES
+Bengali, Hindi"
+Ethan Raju,HR,medium,1,BBA HR,"Compensation & Benefits, Policy Drafting, Exit Management, Compliance, Workforce Planning, Payroll, Training & Development, Labor Law, Docker, SQL",None,"Name: Ethan Raju
+Email: nmammen@example.net | Phone: 1216558523 | Location: Pune
+
+EDUCATION
+BBA HR — Maharaja Surajmal Institute of Technology (2020)
+
+SKILLS
+Compensation & Benefits, Policy Drafting, Exit Management, Compliance, Workforce Planning, Payroll, Training & Development, Labor Law, Docker, SQL
+
+EXPERIENCE
+HR Executive / HR Intern — Flipkart (1 year)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+
+LANGUAGES
+Punjabi, Gujarati"
+Xiti Baria,HR,medium,2,BBA,"HRMS, HRIS, Compliance, MS Excel, Onboarding, Training & Development, Recruitment, Workforce Planning, Power BI, Scala","PHR Certification, LinkedIn HR Fundamentals","Name: Xiti Baria
+Email: baradlaksh@example.net | Phone: 07872982595 | Location: Noida
+
+EDUCATION
+BBA — BITS Pilani (2024)
+
+SKILLS
+HRMS, HRIS, Compliance, MS Excel, Onboarding, Training & Development, Recruitment, Workforce Planning, Power BI, Scala
+
+EXPERIENCE
+HR Executive / HR Intern — Cognizant (2 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+
+CERTIFICATIONS
+• PHR Certification
+• LinkedIn HR Fundamentals
+
+LANGUAGES
+Punjabi, Gujarati"
+Maya Mistry,HR,low,2,B.Com,"Talent Acquisition, Conflict Resolution, Recruitment, Node.js, Flask, React, HTML, Python",None,"Name: Maya Mistry
+Email: yashica88@example.com | Phone: 9470551694 | Location: Mumbai
+
+EDUCATION
+B.Com — Netaji Subhas University of Technology (2019)
+
+SKILLS
+Talent Acquisition, Conflict Resolution, Recruitment, Node.js, Flask, React, HTML, Python
+
+EXPERIENCE
+HR Executive / HR Intern — IBM India (2 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+
+LANGUAGES
+Hindi, Marathi"
+Urvi Lanka,HR,low,1,BA Psychology,"Workforce Planning, Exit Management, MS Excel, Google Maps API, Kotlin, Git, Redshift, Docker",None,"Name: Urvi Lanka
+Email: charansrinivasan@example.org | Phone: 9623091307 | Location: Bengaluru
+
+EDUCATION
+BA Psychology — Lovely Professional University (2021)
+
+SKILLS
+Workforce Planning, Exit Management, MS Excel, Google Maps API, Kotlin, Git, Redshift, Docker
+
+EXPERIENCE
+HR Executive / HR Intern — BYJU'S (1 year)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+
+LANGUAGES
+Telugu, Gujarati"
+Omya Doshi,HR,low,0,BBA HR,"Payroll, Communication, Employee Relations, Android SDK, Material Design, BigQuery, Jetpack Compose, Java",None,"Name: Omya Doshi
+Email: ajani@example.net | Phone: 7028385786 | Location: Pune
+
+EDUCATION
+BBA HR — Guru Gobind Singh Indraprastha University (2021)
+
+SKILLS
+Payroll, Communication, Employee Relations, Android SDK, Material Design, BigQuery, Jetpack Compose, Java
+
+PROJECTS
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+
+LANGUAGES
+Punjabi, Tamil"
+Oscar Sharaf,HR,low,2,BBA HR,"Onboarding, Communication, Recruitment, Jetpack Compose, JavaScript, Flask, Next.js, Redis",None,"Name: Oscar Sharaf
+Email: irya49@example.com | Phone: +913484344375 | Location: Bengaluru
+
+EDUCATION
+BBA HR — Bennett University (2023)
+
+SKILLS
+Onboarding, Communication, Recruitment, Jetpack Compose, JavaScript, Flask, Next.js, Redis
+
+EXPERIENCE
+HR Executive / HR Intern — Swiggy (2 years)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+• Onboarding Revamp: Redesigned onboarding process reducing new hire ramp-up time from 30 days to 18 days through structured buddy programs.
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+
+LANGUAGES
+Gujarati, Tamil, Hindi"
+Ikshita Mahal,HR,low,0,MA HR,"Compliance, Labor Law, Payroll, PostgreSQL, dbt, Room Database, MySQL, Unit Testing",None,"Name: Ikshita Mahal
+Email: jairaj98@example.com | Phone: 05240415747 | Location: Hyderabad
+
+EDUCATION
+MA HR — Lovely Professional University (2020)
+
+SKILLS
+Compliance, Labor Law, Payroll, PostgreSQL, dbt, Room Database, MySQL, Unit Testing
+
+PROJECTS
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+
+LANGUAGES
+Gujarati, Telugu"
+Saksham Yohannan,HR,low,0,B.Com,"HRIS, Compensation & Benefits, Conflict Resolution, Pandas, NLP, Data Visualization, Navigation Component, ViewModel",None,"Name: Saksham Yohannan
+Email: anita21@example.net | Phone: 9330833016 | Location: Hyderabad
+
+EDUCATION
+B.Com — Amity University Noida (2024)
+
+SKILLS
+HRIS, Compensation & Benefits, Conflict Resolution, Pandas, NLP, Data Visualization, Navigation Component, ViewModel
+
+PROJECTS
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+
+LANGUAGES
+Punjabi, Telugu, Hindi"
+Urmi Chaudhry,HR,low,1,MBA HR,"Compliance, Payroll, Communication, ETL Pipelines, GitLab, Redshift, Data Modeling, AWS",None,"Name: Urmi Chaudhry
+Email: abduldugar@example.com | Phone: 7734540193 | Location: Mumbai
+
+EDUCATION
+MBA HR — Chandigarh University (2024)
+
+SKILLS
+Compliance, Payroll, Communication, ETL Pipelines, GitLab, Redshift, Data Modeling, AWS
+
+EXPERIENCE
+HR Executive / HR Intern — Flipkart (1 year)
+Worked on hr projects involving data handling, cross-functional collaboration, and delivery of production-ready solutions.
+
+PROJECTS
+• Employee Engagement Program: Designed and implemented quarterly employee engagement surveys and action plans, improving retention by 12%.
+• Campus Recruitment Drive: Managed end-to-end campus recruitment for 200+ engineering colleges, resulting in 150 successful hires in 3 months.
+• HRMS Implementation: Led the implementation of Darwinbox HRMS across 5 departments, reducing manual HR processes by 40%.
+
+LANGUAGES
+Telugu, Marathi"

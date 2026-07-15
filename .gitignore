@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+
+# Virtual environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data (created by the pipeline scripts, not source data)
+data/enriched_candidates.csv
+data/scored_candidates.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
