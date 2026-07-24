@@ -1,0 +1,21 @@
+role,category,required_skills,preferred_skills,experience_required,education_required,job_description
+Machine Learning Engineer,Machine Learning ,"Python, TensorFlow, PyTorch, Machine Learning, Deep Learning, Docker","AWS, Kubernetes, MLflow, NLP",2-4 years of hands-on machine learning engineering experience,"B.Tech / M.Tech in Computer Science, Data Science, or a related field","Machine Learning Engineer
+NimbusAI Technologies — Bengaluru, India (Hybrid) — Full-time
+About the Role
+NimbusAI is looking for a Machine Learning Engineer to design, train, and deploy production ML models. You will
+work closely with data scientists and backend engineers to take models from prototype to production, own the
+end-to-end ML pipeline, and continuously monitor model performance in the real world.
+Responsibilities
+(cid:127) Design and train deep learning models for classification, NLP, and recommendation use cases
+(cid:127) Build and maintain data preprocessing and feature engineering pipelines
+(cid:127) Deploy models to production using Docker and cloud infrastructure
+(cid:127) Monitor deployed model performance and retrain as needed
+(cid:127) Collaborate with product and backend teams to integrate ML models into live systems
+Required Skills
+Python, TensorFlow, PyTorch, Machine Learning, Deep Learning, Docker
+Preferred Skills
+AWS, Kubernetes, MLflow, NLP
+Experience Required
+2-4 years of hands-on machine learning engineering experience
+Education Required
+B.Tech / M.Tech in Computer Science, Data Science, or a related field"

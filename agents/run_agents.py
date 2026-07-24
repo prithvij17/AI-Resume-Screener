@@ -28,7 +28,7 @@ import ast
 
 import pandas as pd
 from dotenv import load_dotenv
-
+import crew_agents
 from crew_agents import get_llm, build_agents, build_crew_for_candidate
 
 # ---------------------------------------------------------------------------
@@ -154,7 +154,7 @@ def run_pipeline_for_candidate(agents, candidate_payload, job_payload):
     Any failure is caught so one bad candidate doesn't kill the whole batch."""
     try:
         crew = build_crew_for_candidate(agents, candidate_payload, job_payload)
-        crew_output = crew.kickoff()
+        crew_output = crew_agents.run_crew_with_retry(crew)
         outputs = crew_output.tasks_output  # [screening, scoring, feedback, bias_check]
 
         screening_summary = outputs[0].raw.strip()
