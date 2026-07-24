@@ -33,6 +33,7 @@ from crewai import Agent, Task, Crew, Process, LLM
 from crewai.tools import tool
 
 
+
 # ---------------------------------------------------------------------------
 # LLM setup (Groq)
 # ---------------------------------------------------------------------------
@@ -99,7 +100,7 @@ def _parse_min_years(experience_required: str) -> int:
 
 
 @tool("check_hard_requirements")
-def check_hard_requirements(candidate_json: str, job_json: str) -> str:
+def check_hard_requirements(candidate_json, job_json) -> str:
     """
     Compares a candidate's extracted years of experience and skills against
     a job's minimum experience and required skills.
@@ -107,8 +108,8 @@ def check_hard_requirements(candidate_json: str, job_json: str) -> str:
     Returns a JSON string: {passed, meets_experience, required_years,
     candidate_years, missing_required_skills}.
     """
-    candidate = json.loads(candidate_json)
-    job = json.loads(job_json)
+    candidate = json.loads(candidate_json) if isinstance(candidate_json, str) else candidate_json
+    job = json.loads(job_json) if isinstance(job_json, str) else job_json
 
     required_skills = {
         s.strip().lower() for s in job.get("required_skills", "").split(",") if s.strip()
@@ -296,3 +297,17 @@ def build_crew_for_candidate(agents: dict, candidate: dict, job: dict) -> Crew:
         process=Process.sequential,
         verbose=False,
     )
+
+import time as _time  # or reuse existing time import
+
+def run_crew_with_retry(crew, max_retries=3, base_delay=5):
+    last_error = None
+    for attempt in range(max_retries):
+        try:
+            return crew.kickoff()
+        except Exception as e:
+            last_error = e
+            wait = base_delay * (2 ** attempt)
+            print(f"    attempt {attempt + 1} failed ({e}); retrying in {wait}s...")
+            _time.sleep(wait)
+    raise last_error
